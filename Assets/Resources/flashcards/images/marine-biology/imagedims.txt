@@ -1,0 +1,5 @@
+# horizontal: 464 start 1067 end
+# vertical: start 235
+# height: 263 
+# width: 605
+ 
